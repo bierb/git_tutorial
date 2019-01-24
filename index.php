@@ -1,6 +1,11 @@
 <?php
+class git{
+    function render()
+    {
+        echo"Hallo Welt!";
+        /* 
+        Schau ma mal
+        */
+    }
 
-echo"Hallo Welt!";
-/* 
-Schau ma mal
-*/
+}
